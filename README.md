@@ -1,5 +1,3 @@
-# README
-
 # Gravity-Based Falling Text
 
 This project demonstrates a **Gravity-Based Falling Text** animation that simulates realistic physics to create interactive and engaging text effects. Instead of using simple predefined animations, each text element responds to gravity, velocity, and collisions, producing natural movement similar to real-world objects.
